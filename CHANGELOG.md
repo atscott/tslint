@@ -3,7 +3,7 @@ Change Log
 
 v4.1.0
 ---
-* [new-rule] `prefer-const` rule added (#1801)
+* [new-rule] `prefer-const` rule with fixer added (#1801)
 * [new-rule] `strict-boolean-expressions` rule added (#1820)
 * [new-rule] `no-magic-numbers` rule added (#1799)
 * [new-rule] `import-blacklist` rule added (#1841)
