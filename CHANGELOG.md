@@ -11,7 +11,7 @@ v4.1.0
 * [new-rule] `no-inferred-empty-object-type`: a type must be specified when using a generic class/function/etc (#1821)
 * [new-rule-option] `allow-named-functions` added to `only-arrow-functions` (#1857)
 * [new-fixer] `quotemark` fixer added (#1790)
-* [new-formatter] `codeframe` formatter shows you the error in context (#1819)
+* [new-formatter] `code-frame` formatter shows you the error in context (#1819)
 * [enhancement] `no-internal-module` failures highlight less text (#1781)
 * [enhancement] Avoid auto-fixing errors that would result in compilation errors for rules that use type-check (#1608)
 * [rule-change] `only-arrow-functions` will allow functions with a `this` parameter (#1597)
